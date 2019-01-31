@@ -25,9 +25,3 @@ python3 manage.py migrate
 ```
 python3 manage.py test
 ```
-
-###### Original Tutorial Followed:
-
-[Authentication](http://v1k45.com/blog/modern-django-part-4-adding-authentication-to-react-spa-using-drf/)
-
-[Oauth2](https://yeti.co/blog/oauth2-with-django-rest-framework/)
